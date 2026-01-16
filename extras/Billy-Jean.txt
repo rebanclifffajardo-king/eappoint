@@ -1,0 +1,24 @@
+BERUELA
+iPoint: A medical appointment scheduling application using Electron, JS Framework and Simulated Annealing Algorithms
+
+Title: Make a Catchy Title
+
+Chapter 1
+- Add a feature that will flag customers who keeps on cancelling appointments or not because a customers slot may be taken by the next patient upon his/her failure to attend the scheduled meeting automatically.
+- Give account to each clinic that could be seen by the public
+- The problem that you are trying to solve: Lessen the waiting time one Queue
+- Your system must be interactive - patients must know the time left before they will be attended.
+- Provide examples how its being done - simulation algorithm
+- DOH - admin
+		- not found in your concept
+- Will your data be stored in DOH? - must be in clinic repository
+- Include different function of clinic
+								- only features of clinic
+								
+Chapter 2
+- How will DOH know legit doctors?
+- How about the permission to conduct your study?
+- Go deeper -> How the individual processes of doctors
+- Be sure that the patients is not involved in your system.
+
+Referral System -> patients must not be referred to other doctos/physician because of medical history/records that is exclusive to the clinic where he/she first consulted

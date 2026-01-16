@@ -1,0 +1,140 @@
+[11-Aug-2020 23:59:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[11-Aug-2020 23:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:00:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:02:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'liceodedavao'@'ip-166-62-6-80.ip.secureserver.net' (using password: YES) in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:02:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 4
+[12-Aug-2020 00:02:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:02:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:09:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:09:27 UTC] PHP Warning:  mysql_connect(): Access denied for user 'liceodedavao'@'ip-166-62-6-80.ip.secureserver.net' (using password: YES) in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:09:27 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 4
+[12-Aug-2020 00:09:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:10:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 00:35:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 01:02:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 01:02:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 01:05:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 01:05:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 01:07:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 01:08:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 01:08:11 UTC] PHP Warning:  mysql_connect(): Access denied for user 'liceodedavsdao'@'localhost' (using password: YES) in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[12-Aug-2020 01:08:11 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 4
+[12-Aug-2020 01:08:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mcjawj1sous0/public_html/lms/db/databaseConnection.php on line 2
+[17-Nov-2021 06:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 2
+[17-Nov-2021 06:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 2
+[17-Nov-2021 06:24:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 2
+[17-Nov-2021 06:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 2
+[17-Nov-2021 06:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 18
+[17-Nov-2021 06:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 18
+[17-Nov-2021 06:26:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 18
+[17-Nov-2021 06:26:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 18
+[17-Nov-2021 06:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 4
+[17-Nov-2021 06:27:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 4
+[17-Nov-2021 06:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 4
+[17-Nov-2021 06:29:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 4
+[17-Nov-2021 06:31:28 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 8
+[17-Nov-2021 06:31:28 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 10
+[17-Nov-2021 06:32:59 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 8
+[17-Nov-2021 06:32:59 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 10
+[17-Nov-2021 06:34:03 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 8
+[17-Nov-2021 06:34:03 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 10
+[17-Nov-2021 06:34:06 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 8
+[17-Nov-2021 06:34:06 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 10
+[17-Nov-2021 06:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 4
+[17-Nov-2021 06:34:42 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 8
+[17-Nov-2021 06:34:42 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 10
+[17-Nov-2021 06:35:37 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 8
+[17-Nov-2021 06:35:37 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 10
+[17-Nov-2021 06:35:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 4
+[17-Nov-2021 06:35:58 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 6
+[17-Nov-2021 06:36:14 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 8
+[17-Nov-2021 06:36:14 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 10
+[17-Nov-2021 06:37:30 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 8
+[17-Nov-2021 06:37:30 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 10
+[17-Nov-2021 06:39:49 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 8
+[17-Nov-2021 06:39:49 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 10
+[17-Nov-2021 06:40:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 5
+[17-Nov-2021 06:41:04 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 9
+[17-Nov-2021 06:41:04 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 11
+[17-Nov-2021 06:42:11 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 9
+[17-Nov-2021 06:42:11 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 11
+[17-Nov-2021 06:43:49 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 9
+[17-Nov-2021 06:43:49 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 11
+[17-Nov-2021 06:44:30 UTC] PHP Warning:  Unterminated comment starting line 17 in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 17
+[17-Nov-2021 06:44:30 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 9
+[17-Nov-2021 06:44:30 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 11
+[17-Nov-2021 06:44:57 UTC] PHP Warning:  Unterminated comment starting line 17 in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 17
+[17-Nov-2021 06:44:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 5
+[17-Nov-2021 06:45:38 UTC] PHP Warning:  Unterminated comment starting line 17 in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 17
+[17-Nov-2021 06:45:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/algsv9f99nrg/public_html/db/databaseConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/algsv9f99nrg/public_html/db/databaseConnection.php on line 5
